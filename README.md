@@ -1,7 +1,8 @@
 # Full Stack Open (University of Helsinki MOOC)
 Course material available at https://fullstackopen.com/
 
-Progress tracking:
+## Progress tracking:
+
 Part 0: Fundamentals of Web apps
 
  - [ ] 0.1
