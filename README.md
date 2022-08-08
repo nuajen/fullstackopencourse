@@ -5,16 +5,16 @@ Course material available at https://fullstackopen.com/
 
 Part 0: Fundamentals of Web apps
 
- - [ ] 0.1
- - [ ] 0.2
- - [ ] 0.3
- - [ ] 0.4
- - [ ] 0.5
- - [ ] 0.6
+ - [x] 0.1
+ - [x] 0.2
+ - [x] 0.3
+ - [x] 0.4
+ - [x] 0.5
+ - [x] 0.6
 Part 1: Introduction to React
 
- - [ ] 1.1
- - [ ] 1.2
+ - [x] 1.1
+ - [x] 1.2
  - [ ] 1.3
  - [ ] 1.4
  - [ ] 1.5
