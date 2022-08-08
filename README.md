@@ -4,7 +4,7 @@ Course material available at https://fullstackopen.com/
 Progress tracking:
 Part 0: Fundamentals of Web apps
 
- [0.1]
+ - [ ] 0.1
  0.2
  0.3
  0.4
